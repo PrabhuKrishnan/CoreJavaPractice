@@ -42,6 +42,15 @@ public class ArrayListDemo {
 		
 		System.out.println(al);
 		
+		for(String s1 : al)
+		{
+			System.out.println("Printed array list contents:" + s1);
+		}
+		
+		
+		
+		
+		
 	}
 	
 	
