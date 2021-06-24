@@ -51,7 +51,7 @@ public class Encapsulation {
 		
 		System.out.println("Name: "  + e.getName());
 		System.out.println("User ID: "  + e.getId());
-		System.out.println("User Age: " + e.getAge());
+		//System.out.println("User Age: " + e.getAge());
 		 
 		
 	}
