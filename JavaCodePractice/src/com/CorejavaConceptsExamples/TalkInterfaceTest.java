@@ -1,4 +1,4 @@
-package com.javaConceptsExamples;
+package com.CorejavaConceptsExamples;
 
 	import java.io.*; // header stuff MUST go above the first class
 

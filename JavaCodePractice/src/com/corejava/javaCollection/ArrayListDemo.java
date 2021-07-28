@@ -13,7 +13,7 @@ public class ArrayListDemo {
 		 * ArrayList Accepts Duplicates values
 		 * 
 		 * - Array have fixed size where as ArrayList grow dynamically - You can access
-		 * and insert any value in any index - ArrayList is not synchronized - Matains
+		 * and insert any value in any index - ArrayList is not synchronized - maintains 
 		 * the insertion order
 		 * 
 		 * 

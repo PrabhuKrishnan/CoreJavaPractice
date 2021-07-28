@@ -22,7 +22,11 @@ public class MaxNumArray {
 		 
 		 */
 		
-		int abc[][] ={{2,4,5},{3,0,7},{1,12,9}};
+		int abc[][] ={{2,4,5},
+				      {3,0,7},
+				      {1,12,9}
+				     };
+		
 		int minNum = abc[0][0];
 		int minColumn =0;
 		
@@ -56,20 +60,6 @@ public class MaxNumArray {
 			k++;
 		}
 		System.out.println("Maximum value: " + max); 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 		
 		

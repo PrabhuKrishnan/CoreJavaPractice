@@ -17,6 +17,8 @@ public class CalendarDemo {
     System.out.println(calc.get(Calendar.DAY_OF_YEAR));
     	
     
+    
+    
 	}
 
 }

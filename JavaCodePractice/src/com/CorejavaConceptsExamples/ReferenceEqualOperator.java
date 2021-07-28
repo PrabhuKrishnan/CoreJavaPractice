@@ -1,4 +1,4 @@
-package com.javaConceptsExamples;
+package com.CorejavaConceptsExamples;
 
 public class ReferenceEqualOperator {
 

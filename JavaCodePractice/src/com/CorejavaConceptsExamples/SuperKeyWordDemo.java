@@ -1,4 +1,4 @@
-package com.javaConceptsExamples;
+package com.CorejavaConceptsExamples;
 
 // Can be used in variable, method, Constructor
 

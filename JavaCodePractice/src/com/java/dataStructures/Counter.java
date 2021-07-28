@@ -29,8 +29,9 @@ public class Counter {
 		
 	}
 	public static void main(String[] args) {
-		 
-		Counter count = new Counter("prabhu");
+		
+		Counter count=null;
+		count = new Counter("prabhu");
 		count.increment();
 		count.increment();
 		count.increment();

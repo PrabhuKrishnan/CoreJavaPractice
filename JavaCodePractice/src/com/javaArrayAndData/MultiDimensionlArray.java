@@ -14,7 +14,13 @@ public class MultiDimensionlArray {
 	  a[1][2]=7;
 			 
 	  //Another way of Declaring the array 
-	  int b[][] = {{2,4,5},{3,4,7},{5,2,1}};
+	  int b[][] = {
+			  
+			      {2,4,5},
+			      {3,4,7},
+			      {5,2,1}
+			       
+			      };
 	  
 	  for(int i=0; i<2;i++) //row
 	  {
